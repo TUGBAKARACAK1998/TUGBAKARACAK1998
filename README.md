@@ -20,7 +20,8 @@ I'm a Software Developer
  🤝🏻 Talk with me 
 </h2>
 
-[<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br />
+[<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br />
  <br />
 <img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com <br />
 
