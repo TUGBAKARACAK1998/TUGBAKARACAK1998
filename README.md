@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**TUGBAKARACAK1998/TUGBAKARACAK1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
  Hello World, I'm Zeynep  :wave:
  </h1>
@@ -29,15 +14,15 @@ I'm a Software Developer
 -:telescope: I’m currently working on BackEnd.<br/>
 -:seedling: I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
--:mailbox: How to reach me: <a href="https://www.linkedin.com/in/zeynep-çelik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
+-:mailbox: How to reach me: <a href="https://www.linkedin.com/in/zeynep-çelik/" align="left" alt="tugba-karacak| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
 
 <h2 align="left">
  🤝🏻 Talk with me 
 </h2>
 
-[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/zeynep-çelik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
+[<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br />
  <br />
-<img align="left" alt="zeynepcelikk456@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> zeynepcelikk456@gmail.com <br />
+<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com <br />
 
 <br /><h2 align="left">
  🛠 Languages and Tools
@@ -63,7 +48,7 @@ I'm a Software Developer
  -Technical Service and Product Tracking System
 </h4>
 <p align="left">
- <b> Technologies:</b> C#, Devexpress, SQL, EntityFramework, Linq Query,Asp.Net,Html5
+ <b> Technologies:</b> C#,SQL, EntityFramework, Linq Query,Asp.Net,Html5
 </p>
 <p align="left">
 <b> Features:</b>I developed my Technical Service and Product Tracking System project with Entity Framework, I used SQL in the database part and DevExpress in the interface design. I also enabled users to track the product status on the web side of my project.
