@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hello World, I'm Zeynep  :wave:
+ Hello World, I'm Tuğba  :wave:
  </h1>
 <br />
 <div align="center">
@@ -14,7 +14,7 @@ I'm a Software Developer
 -:telescope: I’m currently working on BackEnd.<br/>
 -:seedling: I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
--:mailbox: How to reach me: <a href="https://www.linkedin.com/in/zeynep-çelik/" align="left" alt="tugba-karacak| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
+-:mailbox: How to reach me: <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="tugba-karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/</> <br />
 
 <h2 align="left">
  🤝🏻 Talk with me 
@@ -41,27 +41,5 @@ I'm a Software Developer
 
 
 <br />
-<h2 align="left">
-:zap: My Projects
-</h2>
- <h4 align="left">
- -Technical Service and Product Tracking System
-</h4>
-<p align="left">
- <b> Technologies:</b> C#,SQL, EntityFramework, Linq Query,Asp.Net,Html5
-</p>
-<p align="left">
-<b> Features:</b>I developed my Technical Service and Product Tracking System project with Entity Framework, I used SQL in the database part and DevExpress in the interface design. I also enabled users to track the product status on the web side of my project.
-</p> 
- <h4 align="left">
- -Library Management System
-</h4>
-<p align="left">
- <b> Technologies:</b> Mvc, Asp.net, Linq Query, SQl, EntityFramework, Html5, Css, Bootstrap
-</p>
-<p align="left">
-<b> Features:</b>IThis project consists of 3 basic panels of a library: showcase, admin and user. In particular, with the dashboard part of the admin panel, I used both a powerful interface to design, and SQL structures such as Entity Framework, Trigger, Procedure over Linq queries, beyond crud operations.
-</p> 
- 
-<br />
+
 <br />
