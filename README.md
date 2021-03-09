@@ -77,4 +77,5 @@ const Tuğba = {
 
 
 ---
-👩‍💼 From [@TugbaKaracak](https://github.com/TUGBAKARACAK1998)
+👩‍💻 From [@TugbaKaracak](https://github.com/TUGBAKARACAK1998)
+
