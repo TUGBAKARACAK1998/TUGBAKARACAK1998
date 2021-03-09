@@ -20,7 +20,7 @@ I'm a Software Developer
 ```javascript
 const Tuğba = {
   pronouns: "she",
-  code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
+  code: ["C#", "HTML", "CSS","NET CORE MVC/API"],
   tools: ["ANGULAR", "SQL"],
   
   architecture: ["event-driven", "design system pattern"],
