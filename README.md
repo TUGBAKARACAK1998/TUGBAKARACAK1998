@@ -64,7 +64,7 @@ I'm a Software Developer
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
 
 
 ## 📚 My Medium Account
@@ -86,12 +86,6 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 
 
-### 🤔 How to write github proflie
-
-tr blog->https://tugbakaracak.medium.com/
-
-en blog-> https://github.com/TUGBAKARACAK1998/
-<!--
 
 
 Here are some ideas to get you started:
