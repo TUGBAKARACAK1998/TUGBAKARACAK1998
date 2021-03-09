@@ -75,20 +75,8 @@ I'm a Software Developer
 <img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
 
-## ⚡ Fun Fact
 
-I love startup culture :)
-
-Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
-
-
-
-
-
-
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medium.com/@tugbakaracak)/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medium.com/@tugbakaracak)/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="30"> 
 
 </em></p>
 
