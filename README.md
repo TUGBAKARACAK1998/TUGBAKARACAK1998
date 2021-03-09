@@ -43,7 +43,7 @@ I'm a Software Developer
 
 
 <br />
-### Heyy Lady and Gentlemen 👋
+### Heyy Lady and Gentlemen 👋❤
 
 
 ## 📌 GitHub Stats And Top Languages
@@ -56,11 +56,15 @@ I'm a Software Developer
 
 ## 📚 Learning & Interested
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="CSharp" width="34px"  height="34px"  src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Boostsrap" width="40px"  height="40px" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg"/>
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
 ## 📚 My Medium Account
@@ -69,7 +73,8 @@ I'm a Software Developer
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tugbakaracak/)
+<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
 
 ## ⚡ Fun Fact
 
@@ -77,21 +82,15 @@ I love startup culture :)
 
 Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
 
-### 🔭 Start-up companies that I actively support
 
-BenzinLitre Android Developer, [benzinlitre get play store :)].
 
-<code><img height="75" src="https://www.benzinlitre.com/public/site/tema2/image/logo.svg"></code>
 
-[benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
-
-My google play store https://play.google.com/store/apps/developer?id=FoxyCode&hl=en
 
 ### 🤔 How to write github proflie
 
-tr blog-> https://medium.com/@utkuglsvn/github-profilinize-readme-olu%C5%9Fturma-70f9ee897c8c
+tr blog->https://tugbakaracak.medium.com/
 
-en blog-> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+en blog-> https://github.com/TUGBAKARACAK1998/
 <!--
 
 
