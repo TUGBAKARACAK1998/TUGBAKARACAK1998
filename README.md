@@ -28,7 +28,7 @@ const Tuğba = {
   
                         languages:"English","German", 
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
-                        community:"Software development partnership at İskenderun Technical University", 
+                        community:"Software development partnership at İskenderun Technical University(TTO)", 
                       },
 }
 ```
