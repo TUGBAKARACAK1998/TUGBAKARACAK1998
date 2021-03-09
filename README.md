@@ -103,8 +103,8 @@ I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medi
 
 
 
-javascript
-const Buse = {
+
+const Tuğba = {
   pronouns: "she",
   code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
   tools: ["ANGULAR", "SQL"],
@@ -113,7 +113,6 @@ const Buse = {
                         languages:"English","German",
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
                         community:"Software development partnership at İskenderun Technical University",
-
                       },
 }
 
