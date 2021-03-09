@@ -61,7 +61,8 @@ const Tuğba = {
 
 
 ## 📚 My Medium Account
-<a href="https://www.thoughtworks.com"></a>https://medium.com/@tugbakaracak/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="50"> <br/>
+
+<a href="https://www.thoughtworks.com"></a>https://medium.com/@tugbakaracak/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="20"> <br/>
 ## 📫Talk with me 
 
 <img align="left" alt="TugbaKaracak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
