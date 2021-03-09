@@ -79,7 +79,7 @@ I'm a Software Developer
 [![GitHub TUGBAKARACAK1998](https://img.shields.io/github/followers/TUGBAKARACAK1998?label=follow&style=social)](https://github.com/TUGBAKARACAK1998)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
 
 
 ```javascript
