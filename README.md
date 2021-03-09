@@ -13,8 +13,6 @@ I'm a Software Developer
 </h2>
 -:telescope: I’m currently working on BackEnd.<br/>
 -:seedling: I’m currently learning more about .NetCore.<br/>
--🤔 I’m looking for help with .NetCore.<br/>
--:mailbox: How to reach me: <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="tugba-karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/</> <br />
 
 
  
