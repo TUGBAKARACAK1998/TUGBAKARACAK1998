@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hello, I'm Tuğba  :wave:
+ Hello, I'm Tuğba 🙋‍♀️ :wave:
  </h1>
 <br />
 <div align="center">
@@ -43,7 +43,6 @@ I'm a Software Developer
 
 
 <br />
-### Heyy Lady and Gentlemen 👋❤
 
 
 ## 📌 GitHub Stats And Top Languages
@@ -64,7 +63,7 @@ I'm a Software Developer
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/>
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/><br/>
 
 
 ## 📚 My Medium Account
@@ -87,15 +86,31 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 
 
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-Here are some ideas to get you started:
+I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medium.com/@tugbakaracak)/<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</em></p>
+
+
+[![Linkedin: TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tugbakaracak/)](https://www.linkedin.com/in/tugbakaracak/)
+[![GitHub TUGBAKARACAK1998](https://img.shields.io/github/followers/TUGBAKARACAK1998?label=follow&style=social)](https://github.com/TUGBAKARACAK1998)
+
+javascript
+const Buse = {
+  pronouns: "she",
+  code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
+  tools: ["ANGULAR", "SQL"],
+  architecture: ["event-driven", "design system pattern"],
+  aboutMe: {
+                        languages:"English","German",
+                        course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
+                        community:"Software development partnership at İskenderun Technical University",
+
+                      },
+}
+
+  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=TUGBAKARACAK1998&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUGBAKARACAK1998&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+  
+---
+👩‍💼 From [@TugbaKaracak](https://github.com/TUGBAKARACAK1998)
