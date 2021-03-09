@@ -23,6 +23,22 @@ I'm a Software Developer
 <img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
 <img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com<br/>
+ 
+```javascript
+const Tuğba = {
+  pronouns: "she",
+  code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
+  tools: ["ANGULAR", "SQL"],
+  
+  architecture: ["event-driven", "design system pattern"],
+  aboutMe: {
+  
+                        languages:"English","German", 
+                        course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
+                        community:"Software development partnership at İskenderun Technical University", 
+                      },
+}
+```
 
 <br /><h2 align="left">
  🛠 Languages and Tools
@@ -51,19 +67,6 @@ I'm a Software Developer
   
 
 
-## 📚 Learning & Interested
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSharp" width="34px"  height="34px"  src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Boostsrap" width="40px"  height="40px" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg"/>
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br/><br/>
-
-
 ## 📚 My Medium Account
 <a href="https://www.thoughtworks.com"></a>https://medium.com/@tugbakaracak/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="30"> <br/>
 ## 📫 How to Reach Me
@@ -82,21 +85,6 @@ I'm a Software Developer
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
 
 
-```javascript
-const Tuğba = {
-  pronouns: "she",
-  code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
-  tools: ["ANGULAR", "SQL"],
-  
-  architecture: ["event-driven", "design system pattern"],
-  aboutMe: {
-  
-                        languages:"English","German", 
-                        course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
-                        community:"Software development partnership at İskenderun Technical University", 
-                      },
-}
-```
 
 ---
 👩‍💼 From [@TugbaKaracak](https://github.com/TUGBAKARACAK1998)
