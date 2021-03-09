@@ -65,16 +65,12 @@ I'm a Software Developer
 
 
 ## 📚 My Medium Account
-[@tugbakaracak ](https://medium.com/@tugbakaracak)
-
+<a href="https://www.thoughtworks.com"></a>https://medium.com/@tugbakaracak/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="30"> <br/>
 ## 📫 How to Reach Me
 
 
 <img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
-
-
-I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medium.com/@tugbakaracak)/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="30"> 
 
 </em></p>
 
