@@ -72,7 +72,7 @@ const Tuğba = {
 </em></p>
 
 
- [![Gmail:TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-white?style=flat-square&logo=Gmail&logoColor=blue&link=https://mail.google.com/)](https://mail.google.com/)
+ [![Gmail:](https://img.shields.io/badge/-TugbaKaracak-white?style=flat-square&logo=Gmail&logoColor=red&link=https://mail.google.com/)](https://mail.google.com/)
 [![Linkedin: TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tugbakaracak/)](https://www.linkedin.com/in/tugbakaracak/)
 [![GitHub TUGBAKARACAK1998](https://img.shields.io/github/followers/TUGBAKARACAK1998?label=follow&style=social)](https://github.com/TUGBAKARACAK1998)
 
