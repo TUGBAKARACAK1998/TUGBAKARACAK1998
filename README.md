@@ -99,11 +99,9 @@ I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medi
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-
-
-
+javascript
 const Tuğba = {
   pronouns: "she",
   code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
@@ -113,6 +111,7 @@ const Tuğba = {
                         languages:"English","German",
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
                         community:"Software development partnership at İskenderun Technical University",
+                        
                       },
 }
 
