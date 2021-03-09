@@ -97,29 +97,24 @@ I'm Writing In Medium : <a href="https://www.thoughtworks.com"></a>(https://medi
 [![GitHub TUGBAKARACAK1998](https://img.shields.io/github/followers/TUGBAKARACAK1998?label=follow&style=social)](https://github.com/TUGBAKARACAK1998)
 
 
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-javascript
+```javascript
 const Tuğba = {
   pronouns: "she",
   code: ["C#", "HTML", "CSS","NET CORE MVC/API"]
   tools: ["ANGULAR", "SQL"],
+  
   architecture: ["event-driven", "design system pattern"],
-  
-  
   aboutMe: {
   
                         languages:"English","German", 
-                        
                         course: "KODLUYORUZ & Back - End Web Development 101 Bootcamp",
-                        community:"Software development partnership at İskenderun Technical University",
-                        
+                        community:"Software development partnership at İskenderun Technical University", 
                       },
 }
-
+```
   <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=TUGBAKARACAK1998&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUGBAKARACAK1998&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
   
 ---
