@@ -66,7 +66,9 @@ const Tuğba = {
 
 <img align="left" alt="TugbaKaracak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
-<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />  tugbakaracak98@gmail.com<br/>
+ 
+ [![Gmail:TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-white?style=flat-square&logo=Gmail&logoColor=blue&link=https://mail.google.com/)](https://mail.google.com/)
+ tugbakaracak98@gmail.com<br/>
 </em></p>
 
 
