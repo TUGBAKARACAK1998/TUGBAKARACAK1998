@@ -16,14 +16,9 @@ I'm a Software Developer
 -🤔 I’m looking for help with .NetCore.<br/>
 -:mailbox: How to reach me: <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="tugba-karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/</> <br />
 
-<h2 align="left">
- 🤝🏻 Talk with me 
-</h2>
 
-<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
-<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com<br/>
  
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const Tuğba = {
   pronouns: "she",
@@ -77,13 +72,16 @@ const Tuğba = {
 
 </em></p>
 
+<h2 align="left">
+ 🤝🏻 Talk with me 
+</h2>
 
+<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
+<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com<br/>
+ [![Gmail:TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
 [![Linkedin: TugbaKaracak](https://img.shields.io/badge/-TugbaKaracak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tugbakaracak/)](https://www.linkedin.com/in/tugbakaracak/)
 [![GitHub TUGBAKARACAK1998](https://img.shields.io/github/followers/TUGBAKARACAK1998?label=follow&style=social)](https://github.com/TUGBAKARACAK1998)
-
-
-### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
-
 
 
 ---
