@@ -47,10 +47,8 @@ I'm a Software Developer
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
+  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=TUGBAKARACAK1998&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUGBAKARACAK1998&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+  
 
 
 ## 📚 Learning & Interested
@@ -103,7 +101,6 @@ const Tuğba = {
                       },
 }
 ```
-  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=TUGBAKARACAK1998&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUGBAKARACAK1998&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-  
+
 ---
 👩‍💼 From [@TugbaKaracak](https://github.com/TUGBAKARACAK1998)
