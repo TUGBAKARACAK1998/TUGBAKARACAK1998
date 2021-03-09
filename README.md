@@ -64,9 +64,9 @@ const Tuğba = {
 <a href="https://www.thoughtworks.com"></a>https://medium.com/@tugbakaracak/<img src="https://media.giphy.com/media/WUm5SGPrHY9ljBp3p8/giphy.gif" width="30"> <br/>
 ## 📫Talk with me 
 
-<img align="left" alt="Tugba-Karacak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="TugbaKaracak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.linkedin.com/in/tugbakaracak/" align="left" alt="Tugba-Karacak| LinkedIn" width="22px">linkedin.com/in/tugbakaracak/<a/><br/><br/>
-<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>tugbakaracak98@gmail.com<br/>
+<img align="left" alt="tugbakaracak98@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/256/112-gmail_email_mail-512.png" />  tugbakaracak98@gmail.com<br/>
 </em></p>
 
 
