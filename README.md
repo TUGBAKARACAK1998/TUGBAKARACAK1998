@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hello, I'm Tuğba 🙋‍♀️ :wave:
+ Hello, I'm Tuğba :wave:
  </h1>
 <br />
 <div align="center">
