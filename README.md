@@ -19,7 +19,7 @@ I'm a Software Developer
  
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
 ```javascript
-const Tuğba = {
+const Tugba = {
   pronouns: "she",
   code: ["C#", "HTML", "CSS","NET CORE MVC/API","JAVASCRIPT","MSSSQL","ANGULAR"],
   
