@@ -17,7 +17,7 @@ I'm a Software Developer
 
 
  
-### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> A little more about me...  
 ```javascript
 const Tugba = {
   pronouns: "she",
